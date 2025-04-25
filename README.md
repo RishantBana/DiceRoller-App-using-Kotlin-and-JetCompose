@@ -1,4 +1,3 @@
-Here’s a concise description for your DiceRoller app, followed by a README file.
 
 ### GitHub Description
 A simple Dice Roller app built with Kotlin and Jetpack Compose, where the user can roll a virtual die and view the result as an image. The app displays a random dice face when the roll button is clicked. This project was created as part of Google's Android Basics with Compose course.
