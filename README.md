@@ -1,9 +1,5 @@
 ---
 
-### README File
-
----
-
 # Dice Roller App
 
 This is a Dice Roller app built using **Kotlin** and **Jetpack Compose**. It simulates a dice roll and displays the result as a dice face image. The user can click the "Roll" button to generate a random number between 1 and 6, which is then shown as a corresponding dice image.
