@@ -19,7 +19,7 @@ This is a Dice Roller app built using **Kotlin** and **Jetpack Compose**. It sim
 
 ## Screenshots
 
-![Dice Roller GIF](dicerollergif.gif)
+<img src="dicerollergif.gif" alt="Dice Roller GIF" width="400"/>
 
 ## Installation
 
