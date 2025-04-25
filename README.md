@@ -17,7 +17,7 @@ This is a Dice Roller app built using **Kotlin** and **Jetpack Compose**. It sim
 - **Dynamic Image Update**: The app displays the correct dice face based on the rolled number.
 - **Simple UI**: A clean and minimal user interface built with Jetpack Compose.
 
-## Screenshots
+## Working
 
 <img src="dicerollergif.gif" alt="Dice Roller GIF" width="400"/>
 
